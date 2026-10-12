@@ -10,9 +10,10 @@
 ### 1# 团队公开站点
 
 - 🙋‍♀️Team official website：[https://www.lingxisec.com/](https://www.lingxisec.com/)
+- 📖 Blog website：[https://blog.lingxisec.com/](https://blog.lingxisec.com/)
 
 ### 2# 联系我们
 
 
-- 💞️ 团队微信公众号：“凌曦安全”，欢迎各位师傅进行合作
+- 💞️ 团队微信公众号：“凌曦安全”，欢迎各位师傅进行合作、交流。
 - 👋 团队联系邮箱: [contact@lingxisec.com](mailto:contact@lingxisec.com)
